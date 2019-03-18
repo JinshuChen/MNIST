@@ -3,7 +3,7 @@
 项目主要完成了对MNIST手写数字数据集的分类任务<br>
 任务通过有监督与无监督两种方式分别完成<br>
 ### 有监督学习方式<br>
-有监督学习方法基于深度学习，参考TensorFlow的官方[Demo](http://www.tensorfly.cn/tfdoc/tutorials/mnist_pros.html/)<br>
+有监督学习方法基于深度学习，参考TensorFlow的官方[Demo](http://www.tensorfly.cn/tfdoc/tutorials/mnist_pros.html)<br>
 ### 无监督学习方式<br>
 无监督学习方法基于聚类<br>
 分别采用TensorFlow提供的K-Means相关库与不使用库的纯Python实现两种方法完成<br>
